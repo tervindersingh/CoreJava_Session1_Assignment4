@@ -1,0 +1,14 @@
+int x=5, y=10;
+
+a: x+y*2
+Output would be 25.
+
+b: x-y+2
+Output would be -3
+
+c: (x+y)*2
+Output would be 30
+
+d: y%x
+Output would be 0
+
